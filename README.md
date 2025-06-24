@@ -1,10 +1,11 @@
-# 🛡️ dumpcord.ru — Free IP Booter for Safe Testing
 
-**dumpcord.ru** is your go-to tool for testing site limits, learning about DDoS protection, and simulating heavy traffic.
+# 🛡️ dumpstress.ru — Free IP Booter for Safe Testing
+
+**dumpstress.ru** is your go-to tool for testing site limits, learning about DDoS protection, and simulating heavy traffic.
 
 ## 🌐 Website
 
-[https://dumpcord.ru](https://dumpcord.ru/?r=git-4)
+[https://dumpstress.ru](https://dumpstress.ru/?r=git-4)
 
 ## 🚀 What It Offers
 
@@ -24,9 +25,9 @@
 ## ⚖️ Disclaimer
 
 This is not a toy. Use **only on systems you control** or have permission to test.  
-dumpcord.ru does **not support illegal activity**.
+dumpstress.ru does **not support illegal activity**.
 
 ## 🌍 Try It Now
 
 👉 [https://t.me/dumpcord](https://t.me/dumpcord)  
-👉 [https://dumpcord.ru](https://dumpcord.ru/?r=git-4-1).
+👉 [https://dumpstress.ru](https://dumpstress.ru/?r=git-4-1) 
