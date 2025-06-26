@@ -1,3 +1,4 @@
+
 # 🛡️ dumpstress.ru — Free IP Booter for Safe Testing
 
 **dumpstress.ru** is your go-to tool for testing site limits, learning about DDoS protection, and simulating heavy traffic.
@@ -29,4 +30,4 @@ dumpstress.ru does **not support illegal activity**.
 ## 🌍 Try It Now
 
 👉 [https://t.me/dumpcord](https://t.me/dumpcord)  
-👉 [https://dumpstress.ru](https://dumpstress.ru/?r=git-4-1).
+👉 [https://dumpstress.ru](https://dumpstress.ru/?r=git-4-1) 
