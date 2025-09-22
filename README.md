@@ -1,4 +1,3 @@
-
 # 🛡️ dumpcord.cc — Free IP Booter for Safe Testing
 
 **dumpcord.cc** is your go-to tool for testing site limits, learning about DDoS protection, and simulating heavy traffic.
@@ -30,4 +29,4 @@ dumpcord.cc does **not support illegal activity**.
 ## 🌍 Try It Now
 
 👉 [https://t.me/dumpcord](https://t.me/dumpcord)  
-👉 [https://dumpcord.cc](https://dumpcord.cc/?r=git-4-1) 
+👉 [https://dumpcord.cc](https://dumpcord.cc/?r=git-4-1).
